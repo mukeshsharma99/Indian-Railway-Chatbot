@@ -6,7 +6,7 @@
 
 ## 📌 Project Objective 
 
-- Prompt users to enter **From** and **To** stations in multiple regional languages. 
+- Prompt users to enter **From** and **To** stations in multiple regional languages.  
 - Accept **text and audio input**.
 - Retrieve and show **all available trains** on the selected route.
 - Optionally accept **seat/coach preferences**.
